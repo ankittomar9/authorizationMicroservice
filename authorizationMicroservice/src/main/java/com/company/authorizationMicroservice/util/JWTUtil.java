@@ -1,4 +1,4 @@
-package com.company.authorizationMicroservice;
+package com.company.authorizationMicroservice.util;
 
 import java.util.Date;
 import java.util.HashMap;

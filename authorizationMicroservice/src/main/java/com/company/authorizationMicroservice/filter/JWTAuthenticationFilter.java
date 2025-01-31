@@ -1,5 +1,5 @@
 package com.company.authorizationMicroservice.filter;
-import com.company.authorizationMicroservice.JWTUtil;
+import com.company.authorizationMicroservice.util.JWTUtil;
 import com.company.authorizationMicroservice.service.CustomUserDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
